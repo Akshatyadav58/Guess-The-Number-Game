@@ -19,3 +19,5 @@ A classic number guessing game with a modern, beautiful interface. The computer 
   🔴 Wrong Guess: Red animation with helpful hints
   💀 Game Over: Shows the correct number when you lose
   It's a simple but engaging game that combines classic gameplay with contemporary web design, perfect for quick entertainment breaks!
+
+# Deployed :- https://akshatyadav58.github.io/Guess-The-Number-Game/
